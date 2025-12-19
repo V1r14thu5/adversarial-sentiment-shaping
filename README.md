@@ -1,10 +1,8 @@
 # Adversarial Sentiment Shaping: AI, Reinforcement, and Epistemic Fragility
 
 **Author:** Nuno Lopes  
-**Doctoral Dissertation**  
+**Dissertation**  
 **Date:** December 2025  
-**Institution:** [University Name]  
-**Supervisor:** [Supervisor Name]
 
 ---
 
