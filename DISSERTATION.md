@@ -2,6 +2,8 @@
 
 **Doctoral Dissertation**
 
+By Nuno Lopes
+
 ## Abstract
 
 Sentiment indicators derived from digital discourse increasingly inform institutional decision-making in finance, governance, security, and public communication. These indicators implicitly assume that aggregated sentiment reflects authentic, independently formed human attitudes. This dissertation challenges that assumption by introducing *adversarial sentiment shaping*: a system-level phenomenon in which low-cost, well-timed linguistic interventions bias collective emotional trajectories through reinforcement, amplification, and cognitive load effects, without requiring persuasion, deception, or malicious intent.
