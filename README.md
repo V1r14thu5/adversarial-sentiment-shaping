@@ -1,134 +1,133 @@
-# Adversarial Sentiment Shaping: AI, Reinforcement, and Epistemic Fragility
+Adversarial Sentiment Shaping: AI, Reinforcement, and the Fragility of Sentiment-Driven Decision Systems
+Doctoral Dissertation Repository
 
-**Author:** Nuno Lopes  
-**Dissertation**  
-**Date:** December 2025  
+Overview
+This repository contains the dissertation exploring adversarial sentiment shaping—a system-level phenomenon where low-cost, well-timed linguistic interventions bias collective emotional trajectories through reinforcement and amplification, without requiring persuasion or malicious intent.
 
----
+Abstract
+Sentiment indicators derived from digital discourse increasingly inform institutional decision-making in finance, governance, security, and public communication. These indicators implicitly assume that aggregated sentiment reflects authentic, independently formed human attitudes. This dissertation challenges that assumption by introducing adversarial sentiment shaping: a system-level phenomenon in which strategically timed linguistic inputs bias collective emotional trajectories through reinforcement, amplification, and cognitive load effects.
 
-## Abstract
+Drawing on learning theory, cognitive load research, Cold War signal-amplification analogues, and declassified propaganda and risk-assessment doctrine, the dissertation argues that modern sentiment systems reproduce a recurring institutional failure mode: acting on amplified proxy signals as if they were calibrated measures of reality. The contribution is not a claim about individual belief manipulation, but a diagnosis of measurement fragility in environments where sentiment has become legible, actionable, and therefore targetable.
 
-This dissertation investigates a critical vulnerability in modern decision-making systems: **adversarial sentiment shaping**. As institutions in finance, governance, and security increasingly rely on AI-driven sentiment indicators, this research argues these metrics are not passive reflections of public opinion but are actively targetable signals. The core thesis posits that low-cost, strategically timed linguistic interventions can disproportionately bias collective emotional trajectories. This occurs not through traditional persuasion, but by exploiting **reinforcement dynamics**, **cognitive load**, and **participatory amplification** inherent to digital platforms. The result is **epistemic fragility**, where institutions risk acting on amplified proxy signals as if they were calibrated measures of reality.
+Core Thesis
+Adversarial sentiment shaping exploits the gap between proxy signals and underlying reality. It operates through:
 
----
+Reinforcement dynamics over persuasion
 
-## Table of Contents
+Repetition without belief through digital interaction patterns
 
-1.  Introduction
-2.  Literature Review
-    2.1. The Rise of Sentiment as a Metric
-    2.2. Goodhart's Law and Metric Corruption
-    2.3. Reinforcement Dynamics in Digital Networks
-    2.4. Epistemic Vulnerability in Complex Systems
-3.  Theoretical Framework
-    3.1. Defining Adversarial Sentiment Shaping
-    3.2. From Persuasion to Reinforcement
-    3.3. The Pseudo-Confirmation Feedback Loop
-    3.4. AI as a Reinforcement Optimiser
-4.  Methodology
-    4.1. Conceptual Analysis
-    4.2. Case Study Selection
-    4.3. Digital Ethnography & Signal Tracing
-5.  Analysis & Case Studies
-    5.1. Cryptocurrency Markets: "Social Sentiment" and Volatility
-    5.2. Political Dashboards: Compressed Decision Cycles
-    5.3. Corporate Risk Management: Weaponised "Social Listening"
-6.  Discussion
-    6.1. Implications for Institutional Trust
-    6.2. Towards Resilient Measurement
-    6.3. Limitations of the Study
-7.  Conclusion
-8.  References
-9.  Appendices
+Cognitive load and environmental degradation
 
----
+System-level pseudo confirmation bias
 
-## 1. Introduction
+AI-mediated optimization of engagement and emotional valence
 
-The digitisation of public discourse has precipitated a parallel revolution in its measurement. "Sentiment" – once the domain of qualitative analysis – is now quantified, tracked in real-time, and integrated into high-stakes decision dashboards across finance, governance, and corporate strategy. This dissertation posits that this operationalisation creates a novel and systemic vulnerability. By making collective emotion legible and actionable, we have not merely created a new class of indicator; we have created a new class of **target**.
+Dissertation Structure
+Chapter 1: Introduction: Sentiment as Signal
+Institutions have always relied on proxies. This chapter introduces the central claim: contemporary digital environments enable adversarial sentiment shaping—a process by which small, strategically timed inputs can cascade into disproportionate downstream effects through reinforcement dynamics, participatory amplification, and feedback blindness.
 
-The central argument is that the architecture of digital platforms, combined with the capabilities of Large Language Models (LLMs), creates conditions ripe for **adversarial sentiment shaping**. This is not the blunt instrument of historical propaganda, but a subtle, scalable, and epistemically corrosive practice. It exploits algorithmic reinforcement, human cognitive biases, and the participatory nature of social media to steer emotional trajectories with minimal input, creating a dangerous divergence between measured sentiment and underlying reality.
+Chapter 2: From Persuasion to Reinforcement
+Examines the shift from classical persuasion models to reinforcement effects. Digital platforms dramatically reduce the cost of reinforcement mechanisms (sharing, liking, reposting), enabling sentiment shaping that biases trajectories, not minds.
 
-This work aims to provide a diagnostic framework for this vulnerability, tracing its mechanisms, illustrating its real-world impacts, and outlining the contours of epistemic fragility it induces.
+Chapter 3: Learning Theory and Repetition Without Belief
+Draws on Ebbinghaus' memory research and the mere exposure effect to demonstrate how digital interactions (retweeting, commenting, algorithmic resurfacing) function as recall, rehearsal, and spaced repetition—mechanisms that operate independently of belief or assent.
 
-## 2. Literature Review
+Chapter 4: Cognitive Load, Doomscrolling, and Environmental Degradation
+Analyzes how sustained interruption, emotional arousal, and attentional fragmentation in digital environments produce epistemic degradation—reducing the reliability of signals that institutions later interpret as meaningful indicators of public sentiment.
 
-### 2.1. The Rise of Sentiment as a Metric
-Tracing the evolution of sentiment analysis from early linguistic analysis to contemporary AI-driven analytics, and its adoption as a key performance indicator (KPI) in non-traditional domains.
+Chapter 5: Pseudo Confirmation Bias
+Introduces pseudo confirmation bias as a system-level effect where repeated, amplified, and algorithmically reinforced signals create the appearance of confirmation independent of individuals' prior beliefs or information-seeking behavior.
 
-### 2.2. Goodhart's Law and Metric Corruption
-Examining the economic sociology of measurement, focusing on Goodhart's Law and its applicability to non-financial metrics, particularly socio-emotional measures.
+Chapter 6: AI as a Reinforcement Optimizer
+Examines how large language models operationalize existing cognitive vulnerabilities through feedback optimization and reinforcement learning, enabling adaptive sentiment steering even without adversarial intent.
 
-### 2.3. Reinforcement Dynamics in Digital Networks
-Synthesising research on algorithmic curation, engagement optimisation, and the psychology of repetition, which form the behavioural substrate for shaping operations.
+Chapter 7: Historical Analogues: Cold War Signal Amplification
+Analyzes Cold War cases (missile gap, bomber gap, Able Archer 83) as illustrative analogues of institutional failure modes when acting on amplified perception despite limited empirical grounding.
 
-### 2.4. Epistemic Vulnerability in Complex Systems
-Drawing from philosophy of science and organisational theory to understand how institutions become fragile when their models of the world are passively corrupted by adversarial interference.
+Chapter 8: Propaganda, Panic, and Unwitting Amplification
+Compares Soviet propaganda theory and U.S. psychological operations doctrine with modern digital environments, highlighting structural parallels in indirect reinforcement through unwitting intermediaries.
 
-## 3. Theoretical Framework
+Chapter 9: Measurement Drift and Feedback Blindness
+Applies Goodhart's Law to sentiment indicators: when sentiment measures become operational targets, they cease to be reliable measures. Examines drift, volatility amplification, and second-order feedback blindness.
 
-### 3.1. Defining Adversarial Sentiment Shaping
-A system-level phenomenon where sentiment indicators, once made legible and actionable, become targets for manipulation designed to bias collective emotional trajectories and, by extension, the decisions that rely on them.
+Chapter 10: Methodological Orientation
+Outlines the empirical focus on signal dynamics rather than individual belief change. The unit of analysis is the trajectory, not the individual.
 
-### 3.2. From Persuasion to Reinforcement
-A paradigm shift: the objective is not to change deep-seated beliefs (a high-cost endeavour), but to amplify and steer pre-existing orientations through low-friction, algorithmically boosted digital repetition.
+Chapter 11: Scope, Ethics, and Limitations
+Explicitly excludes clinical mental health claims, neurological mechanisms, attribution of malicious intent, and content regulation proposals. The ethical concern is measurement integrity, not speech control.
 
-### 3.3. The Pseudo-Confirmation Feedback Loop
-A system-level cognitive bias where the mere volume and visibility of a sentiment signal, reinforced by platform mechanics, create the illusory *appearance* of consensus or trend confirmation, irrespective of its ground truth.
+Chapter 12: Institutional Implications
+Argues that institutions trade fidelity for speed in sentiment systems, creating vulnerabilities to compressed decision timelines and overreaction to noise. Proposes measurement governance rather than censorship as the appropriate response.
 
-### 3.4. AI as a Reinforcement Optimiser
-LLMs are positioned not as autonomous malicious actors, but as powerful tools that inherently operationalise and scale these vulnerabilities. They generate engaging, platform-optimised content that systematically tests for and exploits reinforcement pathways.
+Chapter 13: Conclusion: Epistemic Fragility in an AI-Mediated World
+Synthesizes the central risk: epistemic fragility, where institutions mistake amplified sentiment for calibrated signal in an AI-mediated environment.
 
-## 4. Methodology
+Key Contributions
+Theoretical: Formalizes adversarial sentiment shaping as a distinct phenomenon from persuasion
 
-This research employs a multi-method approach:
-- **Conceptual Analysis:** To construct the core theoretical framework.
-- **Comparative Case Studies:** To ground the theory in empirical domains (finance, politics, corporate strategy).
-- **Digital Ethnography:** To observe the mechanics of sentiment shaping in vivo on selected platforms.
-- **Signal Tracing:** To analyse the lifespan and amplification of specific narrative elements.
+Conceptual: Introduces pseudo confirmation bias as an environmental, rather than cognitive, effect
 
-## 5. Analysis & Case Studies
+Historical: Identifies recurring institutional failure modes in proxy signal interpretation
 
-### 5.1. Cryptocurrency & Digital Assets
-Markets explicitly driven by "social sentiment" and narrative are analysed as prime environments for adversarial shaping. Case studies examine how coordinated activity influences the perceived "vibe," triggering volatile algorithmic and herd-driven trading responses.
+Practical: Diagnoses measurement fragility in AI-mediated sentiment systems
 
-### 5.2. Political & Governance Dashboards
-The integration of real-time public mood metrics into political decision-making suites is explored. Analysis focuses on how these dashboards can create artificial feedback loops, compressing decision timelines and elevating noise to the level of perceived crisis.
+Novel Concepts
+Adversarial Sentiment Shaping: Strategic manipulation of collective emotional trajectories through reinforcement dynamics
 
-### 5.3. Corporate & Brand Risk
-The use of "social listening" dashboards for crisis response is investigated. Evidence suggests these tools can be weaponised by bad actors to fabricate the perception of a crisis, forcing organisations into premature, disproportionate, or strategically damaging public reactions.
+Pseudo Confirmation Bias: System-generated appearance of consensus through amplification and repetition
 
-## 6. Discussion
+Epistemic Degradation: Reduced signal reliability under conditions of cognitive load and emotional arousal
 
-### 6.1. Implications for Institutional Trust
-The erosion of epistemic confidence when key decision-inputs are passively corruptible. Discusses the potential for systemic cynicism and institutional paralysis.
+Reinforcement Without Belief: Propagation mechanisms (repetition, rehearsal) that operate independently of endorsement
 
-### 6.2. Towards Resilient Measurement
-Proposes principles for more robust sentiment-informed decision-making, including epistemological humility, signal triangulation, and the development of "antifragile" metrics less prone to adversarial optimisation.
+Methodology
+Unit of analysis: Sentiment trajectories and signal dynamics
 
-### 6.3. Limitations of the Study
-Acknowledges the challenges of attributing specific outcomes to shaping activity, the rapidly evolving capabilities of AI, and the domain-specific nature of the case studies.
+Analytical focus: Time-series distortion, reinforcement curves, amplification asymmetry, sentiment persistence, network diffusion
 
-## 7. Conclusion
+Interdisciplinary synthesis: Learning theory, cognitive science, historical case studies, AI research, declassified documents
 
-This dissertation has argued that **adversarial sentiment shaping** represents a profound and underappreciated vulnerability in digitally mediated societies. By leveraging the reinforcement architecture of platforms and the scalable content generation of AI, actors can induce **epistemic fragility**—a state where institutions confidently act on a distorted picture of the world.
+Ethical Position
+This work explicitly:
 
-The path forward requires moving beyond naïve faith in sentiment metrics. It demands a new literacy among decision-makers: an understanding that the map is not the territory, and that in the digital age, the map itself can be cheaply and strategically redrawn by adversaries. The task is not to abandon these tools, but to develop the conceptual and technical frameworks necessary to use them with appropriate caution and robust scepticism.
+Excludes clinical mental health claims, neurological mechanisms, or content regulation proposals
 
-## 8. References
+Focuses on measurement integrity and institutional decision-making processes
 
-*(A sample of relevant references is included below. A full bibliography would be substantially longer.)*
+Advocates for measurement governance and robustness checks, not speech control or censorship
 
-- Goodhart, C. A. E. (1975). *Problems of Monetary Management: The U.K. Experience.*
-- Zuboff, S. (2019). *The Age of Surveillance Capitalism.*
-- Pariser, E. (2011). *The Filter Bubble.*
-- Tufekci, Z. (2018). *Twitter and Tear Gas: The Power and Fragility of Networked Protest.*
-- Broniatowski, D. A., et al. (2018). "Weaponized Health Communication: Twitter Bots and Russian Trolls Amplify the Vaccine Debate." *American Journal of Public Health.*
-- Vosoughi, S., Roy, D., & Aral, S. (2018). "The spread of true and false news online." *Science.*
+Implications
+For institutions relying on sentiment indicators:
 
-## 9. Appendices
-[To be updated]
----
+Recognizes the trade-off between speed and fidelity in sentiment systems
 
-**© 2025 Nuno Lopes. All rights reserved.**
+Warns against compressed decision timelines and overreaction to amplified noise
 
+Suggests incorporating latency, feedback-loop awareness, and robustness protocols
+
+References
+Includes foundational works from:
+
+Lazarsfeld, Berelson & Gaudet (1944) - The People's Choice
+
+Ebbinghaus (1885) - Über das Gedächtnis
+
+Zajonc (1968) - "Attitudinal Effects of Mere Exposure"
+
+Sweller (1988) - "Cognitive Load During Problem Solving"
+
+Kahneman (2011) - Thinking, Fast and Slow
+
+Nickerson (1998) - "Confirmation Bias"
+
+Perrow (1984) - Normal Accidents
+
+Allison (1971) - Essence of Decision
+
+Ellul (1965) - Propaganda: The Formation of Men's Attitudes
+
+Goodhart (1975) - "Problems of Monetary Management"
+
+Declassified RAND Corporation studies and U.S. Army psychological operations doctrine
+
+Note: This dissertation analyzes system dynamics and signal fragility in AI-mediated environments. It is not a study of individual psychology or a policy proposal for content moderation.
