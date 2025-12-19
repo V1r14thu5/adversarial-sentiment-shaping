@@ -1,6 +1,8 @@
 Adversarial Sentiment Shaping: AI, Reinforcement, and the Fragility of Sentiment-Driven Decision Systems
 Doctoral Dissertation Repository
 
+By Nuno Lopes
+
 Overview
 This repository contains the dissertation exploring adversarial sentiment shaping—a system-level phenomenon where low-cost, well-timed linguistic interventions bias collective emotional trajectories through reinforcement and amplification, without requiring persuasion or malicious intent.
 
