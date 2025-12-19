@@ -1,6 +1,6 @@
 # Adversarial Sentiment Shaping: AI, Reinforcement, and the Fragility of Sentiment-Driven Decision Systems
 
-**Doctoral Dissertation**
+**Dissertation**
 
 By Nuno Lopes
 
