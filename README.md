@@ -127,12 +127,8 @@ The path forward requires moving beyond naïve faith in sentiment metrics. It de
 - Vosoughi, S., Roy, D., & Aral, S. (2018). "The spread of true and false news online." *Science.*
 
 ## 9. Appendices
-
-- **Appendix A:** Glossary of Key Terms
-- **Appendix B:** Detailed Case Study Data
-- **Appendix C:** Examples of LLM-Generated Shaping Content
-
+[To be updated]
 ---
 
 **© 2025 Nuno Lopes. All rights reserved.**
-**Licence:** [e.g., Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)]
+
